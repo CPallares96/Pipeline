@@ -807,9 +807,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="east"/>
       <a name="label" val="8"/>
     </comp>
-    <comp lib="6" loc="(409,1090)" name="Text">
-      <a name="text" val=" 7-Segmentos no mostrará valores para instrucción ADDi"/>
-    </comp>
     <comp loc="(730,530)" name="PIPELINE"/>
     <comp lib="0" loc="(30,780)" name="Tunnel">
       <a name="facing" val="north"/>
@@ -1103,9 +1100,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(720,470)" name="Tunnel">
       <a name="facing" val="south"/>
       <a name="label" val="Resetti"/>
-    </comp>
-    <comp lib="6" loc="(1673,1288)" name="Text">
-      <a name="text" val=" 7-Segmentos no mostrará valores para instrucción ADDi"/>
     </comp>
     <comp lib="0" loc="(640,760)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1507,9 +1501,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(1030,330)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="CLK"/>
-    </comp>
-    <comp lib="6" loc="(2241,1108)" name="Text">
-      <a name="text" val=" 7-Segmentos no mostrará valores para instrucción ADDi"/>
     </comp>
   </circuit>
   <circuit name="Decoder">
